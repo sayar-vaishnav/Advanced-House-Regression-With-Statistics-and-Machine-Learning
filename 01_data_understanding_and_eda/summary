@@ -1,0 +1,32 @@
+# 1 - Data Understanding & Exploratory Data Analysis
+
+## Objective
+
+Understand the Housing dataset and identify important patterns before any preprocessing or modeling.
+
+---
+
+## Topics Covered
+
+- Dataset overview
+- Numerical & categorical features
+- Missing value analysis
+- Target variable analysis
+- Distribution analysis
+- Correlation analysis
+- Rare category analysis
+
+---
+
+## Key Findings
+
+- SalePrice is positively skewed with higher end outliers.
+
+- OverallQual and Living Area has the strongest correlations with SalePrice.
+
+- Categorical Features like Street and Utilites have rare categories which can be clubbed
+
+- Multiple numerical variables contain extreme outliers.
+
+- Expensive thing like Pool(PoolQc) is Missing in Almost all houses
+
